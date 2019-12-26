@@ -1,81 +1,34 @@
+title = "TechSalerno"
 baseURL = "https://techsalerno.github.io"
 languageCode = "en-us"
-title = "TechSalerno"
-theme = "hugo_theme_pickles"
-copyright = "&copy; Copyright notice"
+theme = "ananke"
+themesDir = "themes/"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
 
 [params]
-  paginate = 10
-  # Social accounts. Link to these accounts are displayed in the header and
-  # footer
-  github = "TechSalerno"
-  # Disqus shortname
-  disqus = ""
-  # Google Analytics API key.
-  ga_api_key = "Your Google Analytics tracking id"
-  author = "TechSalerno"
-  authorwebsite = "techsalerno@gmail.com"
-  avatar = "https://leganerd.com/wp-content/uploads/LEGANERD_045103.jpg"
-  contact = "Your contact link (ex. mailto:foo@example.com)"
-  bio = "Your short bio"
-  # Short subtitle/tagline. This is displayed in the header.
-  subtitle = "Short subtitle"
-  # Logo image. This is displayed ogp image.
-  logo = "https://leganerd.com/wp-content/uploads/LEGANERD_045103.jpg"
-  favicon = "https://leganerd.com/wp-content/uploads/LEGANERD_045103.jpg"
-
-[[menu.main]]
-    identifier = "Home"
-    name = "Home"
-    url = "/"
-    weight = 1
-
-[[menu.main]]
-    identifier = "About"
-    name = "About"
-    url = "/about"
-    weight = 2
-
-
-[[menu.main]]
-    identifier = "Community"
-    name = "Community"
-    url = "/community"
-    weight = 3
-
-[[menu.main]]
-    identifier = "About Salerno"
-    name = "About Salerno"
-    url = "/salerno"
-    weight = 4
-
-[[menu.main]]
-    identifier = "Resources"
-    name = "Resources"
-    url = "/resources"
-    weight = 5
-
-[related]
-  # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
-  threshold = 80
-
-  # To get stable "See also" sections we, by default, exclude newer related pages.
-  includeNewer = true
-
-  # Will lower case keywords in both queries and in the indexes.
-  toLower = true 
-
-  [[related.indices]]
-  name = "keywords"
-  weight = 150
-  [[related.indices]]
-  name  = "author"
-  toLower = true
-  weight = 30
-  [[related.indices]]
-  name  = "tags"
-  weight = 100
-  [[related.indices]]
-  name  = "date"
-  weight = 10
-  pattern = "2017"
+  favicon = ""
+  description = "The hub for tech in Salerno"
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = "https://github.com/TechSalerno/"
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/salerno_day.jpg"
+  recent_posts_number = 2
