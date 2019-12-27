@@ -7,4 +7,9 @@ type: page
 ---
 {{< figure src="/images/salerno_day.jpg" title="Salerno cityscape at day">}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+TechSalerno is organization dedicated to promoting expansion and development of the tech industry in Salerno and the surrounding region. We are a group of working professionals, students, interested individuals, and participating businesses and other organizations, all of whom believe in the rich talent and potential of this area's population in this field. It is the ultimate goal to advance Salerno onto the world stage as a center of excellence in the technology sector in general. 
+
+The main missions of TechSalerno will always be to support and expand opportunities for all who are interested in entering this field in this wonderful place. To that end, there are some specific focuses which will server as guiding categories for group acitvieis and organizational efforts: 
+
+1. Education and training.
+  Expanding the skills and marketability of members is a central part of advancing the abilities of the workforce in the area. 
