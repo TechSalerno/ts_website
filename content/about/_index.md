@@ -5,7 +5,7 @@ featured_image: ''
 omit_header_text: true
 type: page
 ---
-{{< figure src="/images/salerno_day-min.png" title="Salerno cityscape at day">}}
+{{< figure src="/images/salerno_day-min.jpg" title="Salerno cityscape at day">}}
 
 TechSalerno is an organization dedicated to promoting expansion and development of the tech industry in Salerno and the surrounding region. We are a group of working professionals, students, interested individuals, and participating businesses and other organizations, all of whom believe in the rich talent and potential of this area's population in this field. It is the ultimate goal to advance Salerno onto the world stage as a center of excellence in the technology sector in general. 
 
@@ -24,5 +24,5 @@ The main missions of TechSalerno will always be to support and expand opportunit
  
  TechSalerno is [pending registration as] an Associazione Riconosciuta senza scopo di lucro. 
  
- TechSalerno's founding members are Dario Di Pasquale, Dan Hossom, Christian if he ever arrives
+ TechSalerno's founding members are Dario Di Pasquale, Dan Hossom, Christian De Blasio. 
  
