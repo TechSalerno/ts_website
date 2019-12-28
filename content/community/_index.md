@@ -7,3 +7,7 @@ type: page
 ---
 
 techsalerno@gmail.com
+
+https://gitter.im/techsalerno_website/community
+
+
