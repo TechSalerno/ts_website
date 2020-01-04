@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "What is TechSalerno?"
-featured_image: ''
+featured_image: "/images/salerno_tramonto-min.jpg"
 omit_header_text: true
 type: page
 ---
@@ -24,5 +24,5 @@ The main missions of TechSalerno will always be to support and expand opportunit
  
  TechSalerno is [pending registration as] an Associazione Riconosciuta senza scopo di lucro. 
  
- TechSalerno's founding members are Dario Di Pasquale, Dan Hossom, Christian De Blasio. 
+ TechSalerno's founding members are [Dario Di Pasquale](https://dariodip.github.io), [Dan Hossom](https://www.linkedin.com/in/danhossom/), [Christian De Blasio](https://www.linkedin.com/in/christiandeblasi0/). 
  
