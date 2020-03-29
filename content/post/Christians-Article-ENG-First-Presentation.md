@@ -5,7 +5,7 @@ featured_image: "images/salerno_tramonto_1-min.jpeg"
 tags: ["scene"]
 title: "Home sweet home"
 draft: false
-author: Christian
+author: Christian D.
 ---
 
 
@@ -21,4 +21,4 @@ The idea was born (strange right?) from a Californian boy, who decided to move f
 We have a wonderful territory, we can go rapidly from the sea to the mountains, the Amalfi and Cilento coasts act as our bodyguard, the best food: imagine programming on the seafront, organizing meetings on the beach, business calls with the background of the seagulls, brainstorming walking barefoot on the sand: you can do it!
 Immediately after graduating, like many others, I worked in Milan for several companies, touring the area a lot and believe me if I say that what is in Salerno is not elsewhere.
 
-We have the opportunity to change the course of the history of the classic graduate boy (and not only), to help each other, to bring various experiences in one place to be able to make the best choices and to appreciate the luck of being there: this is TechSalerno.
+We have the opportunity to change the course of the history of the classic graduate boy (and not only), to help each other, to bring various experiences in one place to be able to make the best choices and to appreciate the luck of being there: this is TechSalerno!
