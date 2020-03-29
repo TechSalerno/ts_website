@@ -5,7 +5,7 @@ featured_image: "images/salerno_tramonto_1-min.jpeg"
 tags: ["scene"]
 title: "Home sweet home"
 draft: false
-author: Christian D.
+author: Christian
 ---
 
 
